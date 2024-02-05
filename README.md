@@ -1,3 +1,5 @@
+![Demographic](https://github.com/VIvidDanalyst/Customer-demographics-/blob/main/demographic%20pg.jpg)
+
 # Customer-Demographics
 ---
 
