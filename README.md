@@ -134,6 +134,22 @@ syntax
       - Total Customers (47,607)
       - Total Available Balance (£52B)
 
+### Insights / Findings 
+The EDA performed on the dataset highlighted  some findings that will be of importance to the marketing team of the Company 
+1. The first and most important demography of any bank should be account status of his customers from the EDA performed on this dataset it is decisive to say that account of most customers are inactive and they have less average vintage meaning they are less loyal to the bank sincec its not active and also the total avialble balance is lower for active account than inactive account.
+2. Customers with no credit product are higher
+3. The gender makeup of the customers highlighted that male has more average vintage hence more loyal.
+4. Total average vintage of all customers is 47% which is below 50% meaning that the customers of the bank are not that loyal to the bank and it should be address
+5. Age is possitively correlated with average vintage meaning the older age bracket are more loyal to the bank.
+6. Most of the customers are self employed with (56%) average vintage
+
+
+### Recommendation 
+There should be measures set up to enhance that customers activate thier accounts and make active for transaction which in turn can increase thier average vintage(loyalty) to the bank. Also since the avereage total balance of active account is lower than inactive account the marketing department or customer service department should educate active customers on the advantage of saving and reduce spending. The total average vintage is low there should be measures set to improve customers loyalty to the bank for instance grant more customrs credit products like credit card since most customers have no credit product with the bank, and also engaing the younger age bracket with youthful events since the customers are young. 
+
+
+# **THANKS FOR READING 
+
 
 
 
