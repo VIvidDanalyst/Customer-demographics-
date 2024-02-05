@@ -23,7 +23,9 @@ In this project, I analyzed customer data using formulas, PivotTables, and Pivot
 
 ### **Tools**
 ---
-Excel Workbook 
+ 1. Excel Workbook (EDA)
+ 2. Excel Workbook(Visualization)
+
 
 ### Data Cleaning 
 ---
@@ -148,6 +150,11 @@ The EDA performed on the dataset highlighted  some findings that will be of impo
 
 ### Recommendation 
 There should be measures set up to enhance that customers activate thier accounts and make active for transaction which in turn can increase thier average vintage(loyalty) to the bank. Also since the avereage total balance of active account is lower than inactive account the marketing department or customer service department should educate active customers on the advantage of saving and reduce spending. The total average vintage is low there should be measures set to improve customers loyalty to the bank for instance grant more customrs credit products like credit card since most customers have no credit product with the bank, and also engaing the younger age bracket with youthful events since the customers are young. 
+
+###### VIZ
+![visualization](https://github.com/VIvidDanalyst/Customer-demographics-/blob/main/Vizualization.png)
+
+
 
 
 # **THANKS FOR READING 
