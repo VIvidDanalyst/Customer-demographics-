@@ -63,6 +63,7 @@ syntax
  In the dataset they are different segment like Occupation, Gender,Channel code And Credit product segmentation, each of this segment will be well analysed to understand customers behaviors for marketing decisions.   
 
  1. Occupation
+    ---
     - Entreprenuer
        - Avr Vintage 71%
        - Total Customers (1076)
@@ -79,7 +80,8 @@ syntax
         - Average Vintage (56%)
         - Total Customers (43192)
         - Total Average Balance (£49B)
-2. Age Bracket
+3. Age Bracket
+   ---
    - Advance (Age 40-65)
       - Average Vintage (64%)
       - Total Customers(47,952)
@@ -92,7 +94,8 @@ syntax
        -  Average Vintage (24%)
        -  Total Customers (46,758)
        -  Total Available Balance (£47B)
-3. Channel Code
+4. Channel Code
+   ---
    - X1
       - Average Vintage (25%)
       - Total Customers (44,484)
@@ -109,7 +112,8 @@ syntax
       - Average Vintage (12%)
       - Total Customers (2,383)
       - Total Available Balance (£2B)
-4. Credit Product Availability
+5. Credit Product Availability
+   ---
    - No
       - Average Vintage(45%)
       - Total Customers(74,130)
@@ -118,7 +122,8 @@ syntax
       - Average Vintage (52%)
       - Total Customers (31,182)
       - Total Available Balance (£36B)
-5. Account Status
+7. Account Status
+   ---
    - No
       - Average Vintage (41%)
       - Total Customers (63,797)
@@ -128,7 +133,8 @@ syntax
       - Total Customers (41,515)
       - Total Available Balance (£50B)
      
-6. Gender
+9. Gender
+   ---
    - Male
       - Average Vintage (51%)
       - Total Customers (57,705)
@@ -139,6 +145,7 @@ syntax
       - Total Available Balance (£52B)
 
 ### Insights / Findings 
+---
 The EDA performed on the dataset highlighted  some findings that will be of importance to the marketing team of the Company 
 1. The first and most important demography of any bank should be account status of his customers from the EDA performed on this dataset it is decisive to say that account of most customers are inactive and they have less average vintage meaning they are less loyal to the bank sincec its not active and also the total avialble balance is lower for active account than inactive account.
 2. Customers with no credit product are higher
@@ -149,9 +156,11 @@ The EDA performed on the dataset highlighted  some findings that will be of impo
 
 
 ### Recommendation 
+---
 There should be measures set up to ensure that customers activate thier accounts and make active for transaction which in turn can increase thier average vintage(loyalty) to the bank. Also since the avereage total balance of active account is lower than inactive account the marketing department or customer service department should educate active customers on the advantage of saving and reduce spending. The total average vintage is low there should be measures set to improve customers loyalty to the bank for instance grant more customrs credit products like credit card since most customers have no credit product with the bank, and also engaing the younger age bracket with youthful events since the customers are young. 
 
 ###### VIZ
+---
 ![visualization](https://github.com/VIvidDanalyst/Customer-demographics-/blob/main/Vizualization.png)
 
 
